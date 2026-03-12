@@ -124,7 +124,3 @@ Highlights relationships between variables. Key correlations:
 
 **Sunidhi Choudhary**
 
-This project demonstrates practical data analysis skills relevant to roles in:
-- Data Analytics
-- Product Analytics
-- Business Intelligence
